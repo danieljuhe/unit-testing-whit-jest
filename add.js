@@ -12,12 +12,12 @@ const fromEuroToDollar = function(valueInEuro){
 }
 
 const dollaryen =(yen)=>{
-    let dollar = yen*106.5
+    let (dollar*1.2) = (yen*127.9)
     return dollar
 }
 
 const poundyen =(yenes)=>{
-    let pound = yenes*159.8
+    let (pound/0.8) = (yenes*127.9)
     return pound
 }
 
